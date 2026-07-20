@@ -1,12 +1,18 @@
-## Hi there 👋
+# TIIX
 
-<!--
+Plataforma modular desenvolvida em **PHP + WordPress**, com foco em gestão, automação, integrações e escalabilidade.
 
-**Here are some ideas to get you started:**
+## Stack principal
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- PHP 8+
+- WordPress
+- MySQL
+- Bootstrap
+- JavaScript / jQuery
+- APIs REST
+
+## Organização
+
+Este espaço centraliza os repositórios, módulos e recursos internos utilizados no desenvolvimento e evolução do ecossistema TIIX.
+
+> Acesso e uso restritos à equipe e aos colaboradores autorizados.
